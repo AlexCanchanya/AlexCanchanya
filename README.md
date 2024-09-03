@@ -52,8 +52,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexCanchanya&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexCanchanya&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
