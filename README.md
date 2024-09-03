@@ -50,7 +50,7 @@
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexCanchanya&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 
 <hr width="60%" >
