@@ -63,11 +63,11 @@
 <a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexCanchanya&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexCanchanya&label=Profile%20views&color=0e75b6&style=flat" alt="AlexCanchanya" /> </p>
 
 ------
 
 
-[ANii693](https://github.com/ANii693)
+[AlexCanchanya](https://github.com/AlexCanchanya)
 
-Last Edited on: 28/02/2023
+Last Edited on: 03/09/2024
